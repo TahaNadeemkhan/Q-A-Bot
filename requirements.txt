@@ -1,0 +1,14 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain_google_genai
+python-dotenv
+langchain
+langchain_core
+langserve
+fastapi
+uvicorn
+sse_starlette
+langchain-community
+bs4
+pypdf
